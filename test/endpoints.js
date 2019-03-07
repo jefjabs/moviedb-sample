@@ -84,5 +84,26 @@ describe('Testing Movie Listing Endpoint', function () {
 			})
 	});
 
+	it('CREATE/DELETE /api/v1/Movie/:id - Movie should be created and deleted', function (done) {
+		request(base)
+			.post("/api/v1/Movie/")
+			.form({
+				"title":"test",
+				"cast":"[]",
+				"summary":"test",
+				"image":"test",
+				"tags":"test"
+			})
+			.end(function(err,res){
+				var resObj = JSON.parse(res.body);
+				request(base)
+					.del("/api/v1/Movie/"+resObj.id)
+					.expect(200)
+					.end(function(err,res){
+						done();
+					});
+			});
+	});
+
 });
 

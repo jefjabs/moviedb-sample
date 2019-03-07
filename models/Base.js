@@ -22,7 +22,7 @@ class Base {
 		var errorMessages = [];
 		for(var attr in this.attributes){
 			if(this.attributes[attr].required != undefined && this.attributes[attr].required == true){
-				if(this.values[attr]==undefined || this.values[attr]==""){
+				if(this.values[attr]==undefined || this.values[attr]===""){
 					isValid=false;
 					errorMessages.push("'"+attr+"' is required");
 				}

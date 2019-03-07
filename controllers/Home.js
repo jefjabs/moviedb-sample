@@ -22,11 +22,15 @@ class Home {
 	createMovie(req,res){
 		var mov = new models.Movie();
 		mov.values=req.body;
-		mov.values.cast = JSON.parse(mov.values.cast);
+		if(!Array.isArray(mov.values.cast)){
+			mov.values.cast = JSON.parse(mov.values.cast);
+		}
 		mov.validate(function(isValid,err){
 			if(isValid){
 				mov.save(function(result){
-					res.send(JSON.stringify(result));
+					var data = result.result;
+					data.id=result.insertedId;
+					res.send(JSON.stringify(data));
 				});
 			} else {
 				controllers.Home.invalidData(res,err);

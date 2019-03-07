@@ -103,7 +103,9 @@ class Movie extends Component {
 					onClick: function(){
 						var movie = this.state.data;
 						movie.cast.splice(index,1);
-						this.setState({data:this.state.data});
+						Api.updateMovie(this.state.data._id,this.state.data,function(response){
+							this.setState({data:this.state.data});
+						}.bind(this));	
 					}.bind(this)
 				},
 				{ label: 'No', }

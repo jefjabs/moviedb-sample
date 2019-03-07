@@ -1,0 +1,184 @@
+[
+{
+	    "_id" : ObjectId("5c80c24226500f7e197dd1b2"),
+		    "title" : "The Walking Dead - Season 9",
+		    "tags" : "Action, Adventure, Drama, Horror, Suspense",
+		    "cast" : [ 
+				        {
+							            "name" : "Dave Fennoy",
+							            "role" : "Zombie Killer"
+							        }, 
+				        {
+							            "name" : "Mellisa Hutchinson",
+							            "role" : "Zombie"
+							        }, 
+				        {
+							            "name" : "Chuck Kourouklis",
+							            "role" : "Zombie Eater"
+							        }, 
+				        {
+							            "name" : "Nick Herman",
+							            "role" : "Zombie Trainer"
+							        }
+				    ],
+		    "summary" : "In a world devastated by the undead, a convicted criminal is given a second chance at life when he comes across a little girl named Clementine.",
+		    "image" : "https://cdn.fmovies.io/cover/the-walking-dead-season-9.png"
+},
+{
+	    "_id" : ObjectId("5c80c30726500f7e197dd275"),
+		    "title" : "CAPTAIN MARVEL",
+		    "tags" : "Action & Adventure, Science Fiction & Fantasy",
+		    "cast" : [ 
+				        {
+							            "name" : "Brie Larson",
+							            "role" : "Captain Marvel"
+							        }, 
+				        {
+							            "name" : "Samuel L Jackson",
+							            "role" : "Nick Fury"
+							        }
+				    ],
+		    "summary" : "The story follows Carol Danvers as she becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+		    "image" : "https://resizing.flixster.com/JLLaCatmCKEaK2Y-EGpDw8ocGms=/fit-in/200x296.2962962962963/v1.bTsxMjkyNjcxNjtqOzE4MDE0OzEyMDA7MTY4ODsyNTAw"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd657"),
+		    "title" : "Gloria Bell",
+		    "tags" : "Comedy, Romance",
+		    "cast" : [ 
+				        {
+							            "name" : "Julianne Moore",
+							            "role" : "Gloria"
+							        }, 
+				        {
+							            "name" : "John Turturro",
+							            "role" : "Arnold"
+							        }
+				    ],
+		    "summary" : "Gloria (Julianne Moore) is a free-spirited divorcée who spends her days at a straight-laced office job and her nights on the dance floor, joyfully letting loose at clubs around Los Angeles. After meeting Arnold (John Turturro) on a night out, she finds herself thrust into an unexpected new romance, filled with both the joys of budding love and the complications of dating, identity and family.",
+		    "image" : "https://resizing.flixster.com/fxiTJd92nXl2MpunP1T3hHCa2zY=/fit-in/200x296.2962962962963/v1.bTsxMjkwNzQ3OTtqOzE4MDE0OzEyMDA7MzAwOzQwMA"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd659"),
+		    "title" : "HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD",
+		    "tags" : "Action & Adventure, Animation, Kids & Family, Comedy, Fiction",
+		    "cast" : [ 
+				        {
+							            "name" : "Jay Baruchel ",
+							            "role" : "Hiccup"
+							        }, 
+				        {
+							            "name" : "America Ferrera",
+							            "role" : "Astrid"
+							        }
+				    ],
+		    "summary" : "Now chief and ruler of Berk alongside Astrid, Hiccup has created a gloriously chaotic dragon utopia. When the sudden appearance of female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must leave the only home they've known and journey to a hidden world thought only to exist in myth. As their true destines are revealed, dragon and rider will fight together-to the very ends of the Earth-to protect everything they've grown to treasure.",
+		    "image" : "https://resizing.flixster.com/2rjfKdM3bfAmNe9Rh_XQn9SOVSg=/fit-in/200x296.2962962962963/v1.bTsxMjc1NjU5NztqOzE4MDEyOzEyMDA7NDgwOzc2MA"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd65b"),
+		    "title" : "ALITA: BATTLE ANGEL",
+		    "tags" : "Action & Adventure, Romance",
+		    "cast" : [ 
+				        {
+							            "name" : "Rosa Salazar ",
+							            "role" : "Alita"
+							        }, 
+				        {
+							            "name" : "Christoph Waltz ",
+							            "role" : "Dr. Dyson Ido"
+							        }
+				    ],
+		    "summary" : "From visionary filmmakers James Cameron (AVATAR) and Robert Rodriguez (SIN CITY), comes ALITA: BATTLE ANGEL, an epic adventure of hope and empowerment. When Alita (Rosa Salazar) awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido (Christoph Waltz), a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past. As Alita learns to navigate her new life and the treacherous streets of Iron City, Ido tries to shield her from her mysterious history while her street-smart new friend Hugo (Keean Johnson) offers instead to help trigger her memories. But it is only when the deadly and corrupt forces that run the city come after Alita that she discovers a clue to her past - she has unique fighting abilities that those in power will stop at nothing to control. If she can stay out of their grasp, she could be the key to saving her friends, her family and the world she's grown to love.",
+		    "image" : "https://resizing.flixster.com/32Kpcr4l9YiECA8Xs7giA0GdH1o=/fit-in/200x296.2962962962963/v1.bTsxMjk4NTcxOTtqOzE4MDE1OzEyMDA7NDA1MDs2MDAw"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd65d"),
+		    "title" : "THE LEGO MOVIE 2: THE SECOND PART",
+		    "tags" : "Animation, Comedy",
+		    "cast" : [ 
+				        {
+							            "name" : "Chriss Pratt",
+							            "role" : "Emmet"
+							        }, 
+				        {
+							            "name" : "Elizabeth Banks",
+							            "role" : "Lucy"
+							        }, 
+				        {
+							            "name" : "RDJ",
+							            "role" : "TOny Stark"
+							        }
+				    ],
+		    "summary" : "The much-anticipated sequel to the critically acclaimed, global box office phenomenon that started it all, The LEGO (R) Movie 2: The Second Part, reunites the heroes of Bricksburg in an all new action-packed adventure to save their beloved city. It's been five years since everything was awesome and the citizens are now facing a huge new threat: LEGO DUPLO (R) invaders from outer space, wrecking everything faster than it can be rebuilt. The battle to defeat the invaders and restore harmony to the LEGO universe will take Emmet (Chris Pratt), Lucy (Elizabeth Banks), Batman (Will Arnett) and their friends to faraway, unexplored worlds, including a strange galaxy where everything is a musical. It will test their courage, creativity and Master Building skills, and reveal just how special they really are.",
+		    "image" : "https://resizing.flixster.com/3vUAFZjn1PXh3PCvDkbICRIpxpQ=/fit-in/200x296.2962962962963/v1.bTsxMjkxNDAyMTtqOzE4MDE0OzEyMDA7ODEwOzEyMDA"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd65f"),
+		    "title" : "FIGHTING WITH MY FAMILY",
+		    "tags" : "Comedy",
+		    "cast" : [ 
+				        {
+							            "name" : "Florence Pugh",
+							            "role" : "Raya"
+							        }, 
+				        {
+							            "name" : "Dwayne Johnson ",
+							            "role" : "Himself"
+							        }
+				    ],
+		    "summary" : "FIGHTING WITH MY FAMILY is a heartwarming comedy based on the incredible true story of WWE Superstar Paige(TM). Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for WWE. But when only Paige earns a spot in the competitive training program, she must leave her family and face this new, cut-throat world alone. Paige's journey pushes her to dig deep, fight for her family, and ultimately prove to the world that what makes her different is the very thing that can make her a star.",
+		    "image" : "https://resizing.flixster.com/K3ugTiuuJ-phRsnlgQiLcwsBkp0=/fit-in/200x296.2962962962963/v1.bTsxMjkzNDIyNjtqOzE4MDE0OzEyMDA7MzcxMzs1NTAw"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd661"),
+		    "title" : "GREEN BOOK",
+		    "tags" : "Drama",
+		    "cast" : [ 
+				        {
+							            "name" : "Viggo Mortensen ",
+							            "role" : "Tony Lip"
+							        }, 
+				        {
+							            "name" : "Mahershala Ali",
+							            "role" : "Dr. Don Shirley"
+							        }
+				    ],
+		    "summary" : "When Tony Lip (Mortensen), a bouncer from an Italian-American neighborhood in the Bronx, is hired to drive Dr. Don Shirley (Ali), a world-class Black pianist, on a concert tour from Manhattan to the Deep South, they must rely on The Green Book to guide them to the few establishments that were then safe for African-Americans. Confronted with racism, danger-as well as unexpected humanity and humor-they are forced to set aside differences to survive and thrive on the journey of a lifetime.",
+		    "image" : "https://resizing.flixster.com/LGVhNP-EuLyALbeN5OCKnugaqhk=/fit-in/200x296.2962962962963/v1.bTsxMjgyMzMzODtqOzE4MDEzOzEyMDA7MzE1ODs1MDAw"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd663"),
+		    "title" : "ISN'T IT ROMANTIC",
+		    "tags" : "Comedy, Romance",
+		    "cast" : [ 
+				        {
+							            "name" : "Rebel Wilson ",
+							            "role" : "natalie"
+							        }, 
+				        {
+							            "name" : "Liam Hemsworth ",
+							            "role" : "Blake"
+							        }
+				    ],
+		    "summary" : "New York City architect Natalie works hard to get noticed at her job but is more likely to be asked to deliver coffee and bagels than to design the city's next skyscraper. And if things weren't bad enough, Natalie, a lifelong cynic when it comes to love, has an encounter with a mugger that renders her unconscious, waking to discover that her life has suddenly become her worst nightmare -- a romantic comedy -- and she is the leading lady.",
+		    "image" : "https://resizing.flixster.com/XvKItED54c56VOCQxVnfjIulWPY=/fit-in/200x296.2962962962963/v1.bTsxMjkzMTYwNDtqOzE4MDE0OzEyMDA7MTY2NTsyMjIw"
+},
+{
+	    "_id" : ObjectId("5c80c72126500f7e197dd665"),
+		    "title" : "WHAT MEN WANT",
+		    "tags" : "Comedy, Romance, Drama, True Story",
+		    "cast" : [ 
+				        {
+							            "name" : "Taraji P. Henson ",
+							            "role" : "Ali Davis"
+							        }, 
+				        {
+							            "name" : "Aldis Hodge ",
+							            "role" : "Hobs"
+							        }
+				    ],
+		    "summary" : "Inspired by the Nancy Meyers hit romantic comedy WHAT WOMEN WANT, this film follows the story of a female sports agent (Henson) who has been constantly boxed out by her male colleagues. When she gains the power to hear mens' thought, she is able to shift the paradigm to her advantage as she races to sign the NBA's next superstar",
+		    "image" : "https://resizing.flixster.com/u13vootCsjk5shOOBjwosvkX10o=/fit-in/200x296.2962962962963/v1.bTsxMjkzMTYwNjtqOzE4MDE0OzEyMDA7MTk5ODsyNjY0"
+	}
+]

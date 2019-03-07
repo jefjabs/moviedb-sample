@@ -1,14 +1,23 @@
-Requirements-
--mongodb
--node
+# Requirements
 
+- mongodb
+- node
+
+## Steps : 
+
+```
 git clone https://gitlab.com/jefjabs/42movies.git
 cd 42movies
 npm install
-npm run migrate
 npm start
+```
 
-~Summary~
-Framework: ExpressJS with some SailsJS File Structuring
+## To seed initial data to database
+```
+npm run migrate
+```
+
+## Summary
+Framework: ExpressJS with custom MVC-Like File Structuring
 Database: MongoDB
 Frontend: ReactJS

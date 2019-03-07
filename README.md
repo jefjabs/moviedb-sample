@@ -1,9 +1,8 @@
 # Requirements
-
 - mongodb
 - nodejs
 
-## Steps : 
+## Steps to run locally
 
 ```
 git clone https://gitlab.com/jefjabs/42movies.git

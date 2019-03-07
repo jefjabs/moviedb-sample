@@ -3,7 +3,6 @@
 - nodejs
 
 ## Steps to run locally
-
 ```
 git clone https://gitlab.com/jefjabs/42movies.git
 cd 42movies

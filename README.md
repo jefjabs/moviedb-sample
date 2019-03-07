@@ -1,10 +1,8 @@
 # Requirements
-
 - mongodb
-- node
+- nodejs
 
-## Steps : 
-
+## Steps to run locally
 ```
 git clone https://gitlab.com/jefjabs/42movies.git
 cd 42movies
@@ -18,6 +16,6 @@ npm run migrate
 ```
 
 ## Summary
-Framework: ExpressJS with custom MVC-Like File Structuring
-Database: MongoDB
-Frontend: ReactJS
+- Framework: ExpressJS with custom MVC-Like File Structuring
+- Database: MongoDB
+- Frontend: ReactJS

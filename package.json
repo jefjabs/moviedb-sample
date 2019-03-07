@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon .",
-	"migrate":"mongoimport --db 42movies --collection Movie --file movie-data.json --jsonArray"
+    "migrate": "mongoimport --db 42movies --collection Movie --file movie-data.json --jsonArray",
+    "test": "mocha test"
   },
   "author": "Jeffrey Jabines",
   "license": "ISC",
@@ -16,6 +17,8 @@
     "express": "^4.16.4",
     "moment": "^2.24.0",
     "mongodb": "^3.1.13",
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0",
+    "super-request": "^1.2.0"
   }
 }

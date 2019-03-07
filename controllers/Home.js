@@ -38,7 +38,9 @@ class Home {
 		var mov = new models.Movie();
 		mov.values=req.body;
 		mov.values._id = req.params._id;
-		console.log(req.body);
+		if(!Array.isArray(mov.values.cast)){
+			mov.values.cast = JSON.parse(mov.values.cast);
+		}
 
 		mov.validate(function(isValid,err){
 			if(isValid){

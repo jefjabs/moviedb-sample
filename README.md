@@ -1,7 +1,7 @@
 # Requirements
 
 - mongodb
-- node
+- nodejs
 
 ## Steps : 
 
@@ -18,6 +18,6 @@ npm run migrate
 ```
 
 ## Summary
-Framework: ExpressJS with custom MVC-Like File Structuring
+- Framework: ExpressJS with custom MVC-Like File Structuring
 - Database: MongoDB
 - Frontend: ReactJS

@@ -4,8 +4,8 @@
 
 ## Steps to run locally
 ```
-git clone https://gitlab.com/jefjabs/42movies.git
-cd 42movies
+git clone https://gitlab.com/jefjabs/moviedb-sample.git
+cd moviedb-sample
 npm install
 npm run migrate
 npm start
